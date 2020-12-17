@@ -10,3 +10,15 @@ print('Você nasceu dia' + dia + ' de ' + mes + ' de ' + ano + ' certo?')
 
 print()
 print('FIM!!')
+
+###
+
+English Version
+
+print('========= CHALENGE 002 =========')
+print()
+
+day = input('What day were you born? ')
+
+
+###
