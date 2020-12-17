@@ -11,7 +11,7 @@ print('Você nasceu dia ' + dia + ' de ' + mes + ' de ' + ano + ', certo?')
 print()
 print('FIM!!')
 
-###
+'''
 
 English Version
 
@@ -28,4 +28,4 @@ print('You born in ' + month + ' ' + day + 'th ' + year + ', right?')
 print()
 print('END!!')
 
-###
+'''
