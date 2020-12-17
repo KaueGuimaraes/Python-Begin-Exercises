@@ -1,7 +1,7 @@
 print('========= DESAFIO 001 =========')
 print()
 
-nome = input('Qual é o seu nome ')
+nome = input('Qual é o seu nome? ')
 print('Seja bem vindo' + nome + ' este é o meu primeiro Script Python!')
 
 print()
@@ -14,7 +14,7 @@ English Version
 print('========= CHALLENGE 001 =========')
 print()
 
-name = input('What is your name?')
+name = input('What is your name? ')
 print('Wellcome' + name + ' this is my firt Python Script!')
 
 print()
