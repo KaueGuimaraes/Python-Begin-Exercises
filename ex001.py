@@ -7,7 +7,7 @@ print('Seja bem vindo' + nome + ' este é o meu primeiro Script Python!')
 print()
 print('FIM!!')
 
-###
+'''
 
 English Version
 
@@ -20,4 +20,4 @@ print('Wellcome' + name + ' this is my firt Python Script!')
 print()
 print('END!!')
 
-###
+'''
