@@ -11,7 +11,7 @@ print('FIM!!')
 
 English Version
 
-print('========= Challenge 001 =========')
+print('========= CHALLENGE 001 =========')
 print()
 
 name = input('What is your name?')
