@@ -43,3 +43,9 @@ print('{} x 10 = {}'.format(n, n * 10))
 print('\nEND!!')
 
 '''
+
+'''
+Desafio: Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
+
+Challenge: Make a program that reads a whole number and shows on the screen its multiplication table.
+'''
