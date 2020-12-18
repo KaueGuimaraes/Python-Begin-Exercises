@@ -10,13 +10,10 @@ print('FIM!!')
 '''
 
 English Version
-
 print('========= CHALLENGE 001 =========')
 print()
-
 name = input('What is your name? ')
 print('Wellcome' + name + ' this is my firt Python Script!')
-
 print()
 print('END!!')
 
