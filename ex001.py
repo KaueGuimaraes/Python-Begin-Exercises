@@ -18,3 +18,11 @@ print()
 print('END!!')
 
 '''
+
+'''
+Desafio : Crie um programa que escreva "Olá mundo" na tela
+Era somente para eu dizer "Olá mundo", mas eu fiz mais do que o professor pediu(eu nem lembro o porque disso).
+
+Challenge : Do a python cript that can write "Hello World"
+I was just supposed to say "Hello world", but I did more than the teacher asked (I don't even remember why).
+'''
