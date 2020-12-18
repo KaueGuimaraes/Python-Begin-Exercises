@@ -25,3 +25,9 @@ print('\nThe avarge between this scores is: {}'.format(m / 2))
 print('END!!')
 
 '''
+
+'''
+Desafio: Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
+
+Challenge: Make a program that reads two student notes, and shows your avarage.
+'''
