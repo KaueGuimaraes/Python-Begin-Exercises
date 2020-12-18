@@ -29,5 +29,5 @@ print('END!!')
 '''
 Desafio: Faça um programa que leia o dia de nascimento, o mês e o ano, e mostre uma mensagem formatada com essas informações do usuário.
 
-Challenge: Make a program that read a BirthDay, Birth Mounth and a Year of Birthday of user, and show a message with this user information.
+Challenge: Make a program that reads a BirthDay, Birth Mounth and a Year of Birthday of user, and show a message with this user information.
 '''
