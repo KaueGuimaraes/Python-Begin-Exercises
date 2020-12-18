@@ -25,3 +25,9 @@ print('Is lower? ', letra.islower())
 print('\nEND!!')
 
 '''
+
+'''
+Desafio: Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+
+Challenge: Make a program that reads something on the KeyBoard and shows, it's primitive type and all possible information about it.
+'''
