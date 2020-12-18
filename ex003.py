@@ -22,3 +22,9 @@ print()
 print('END!!')
 
 '''
+
+'''
+Desafio: Crie um programa que leia dois números e mostre a soma entre eles.
+
+Chaalenge: Make a program that reads two numbers and show some between them.
+'''
