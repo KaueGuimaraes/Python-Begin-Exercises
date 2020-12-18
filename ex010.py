@@ -29,5 +29,5 @@ print('\nEND!!') #Nowadays when i am reviewing this old exercise(final de 2020) 
 '''
 Desafio: Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dolares ela pode comprar.
 
-Challende: Make a program that reads how much reais a people have, and shows how much dolars the user can buy.
+Challenge: Make a program that reads how much reais a people have, and shows how much dolars the user can buy.
 '''
