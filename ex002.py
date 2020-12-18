@@ -14,17 +14,13 @@ print('FIM!!')
 '''
 
 English Version
-
 print('========= CHALENGE 002 =========')
 print()
-
 day = input('What day were you born? ')
 month = input('What mounth were you born? ')
 year = input('What year were you born? ')
-
 print()
 print('You born in ' + month + ' ' + day + 'th ' + year + ', right?')
-
 print()
 print('END!!')
 
