@@ -1,24 +1,24 @@
-def aumentar(n, v):
+def aumentar(n = 0, v = 0):
     res = n + ((n / 100) * v)
     return res
 
 
-def diminuir(n, v):
+def diminuir(n = 0, v = 0):
     res = n - ((n / 100) * v)
     return res
 
 
-def dobro(n):
+def dobro(n = 0):
     res = n * 2
     return res
 
 
-def metade(n):
+def metade(n = 0):
     res = n / 2
     return res
 
-def moeda(n):
-    num = str(n)
+def moeda(n = 0, moeda = 'R$'):
+    num = f'{n: >.2f}'
     res = ""
 
     for c in range(0, len(num)):
@@ -27,6 +27,6 @@ def moeda(n):
         else:
             res += num[c]
 
-    res = "R$" + res
+    res = moeda + res
 
     return res
